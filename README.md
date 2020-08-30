@@ -1,12 +1,25 @@
 # 禁止转载，禁止转载，禁止转载！
 # GitHub上非最新内容，最新内容请期待新书。
 
-## 请提交内容的各位，私加微信tan_weixin88.提交个人信息：姓名-毕业学校-学历-工作单位-职位-电话-邮箱
-
+## 
 
 ### 学习交流群
 
-![](./qun23.png)
+
+
+<center>
+    <img src="qun.png" width="300"/>
+    <br>
+    <div">学习交流群</div>
+</center>
+
+
+
+
+
+## 理解CNN、CNN可视化  CNN-Visualization 
+
+## https://github.com/scutan90/CNN-Visualization
 
 ## 深度学习乳腺癌识别与诊断
 
@@ -79,7 +92,7 @@
 
    (进群先在MD版本增加、改善、提交内容后，更易进群，享受分享知识帮助他人。)
 
-   ![](./qun23.png)
+   ![](qun23.png)
 
 3. Markdown阅读器推荐：https://typora.io/ 免费且对于数学公式显示支持的比较好。
 
